@@ -5,5 +5,6 @@
 def functionname(a,b):
     return a+b 
 w=functionname(3,1)
-print(w)  
- 
+x=functionname(5,8)
+print(w)
+print(x)
