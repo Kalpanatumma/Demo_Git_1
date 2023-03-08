@@ -1,5 +1,5 @@
 def functionname1(name,age):
-    print("this is a function",name,age) 
+    print("this is a function example",name,age) 
 functionname1('Kalpana',1)
 
 def functionname2(a,b):
