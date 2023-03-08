@@ -1,10 +1,10 @@
-#def functionname(name,age):
-#    print("this is a function",name,age) 
-#functionname('Kalpana',1)
+def functionname1(name,age):
+    print("this is a function",name,age) 
+functionname1('Kalpana',1)
 
-def functionname(a,b):
+def functionname2(a,b):
     return a+b 
-w=functionname(3,1)
-x=functionname(5,8)
+w=functionname2(3,1)
+x=functionname2(5,8)
 print(w)
 print(x)
