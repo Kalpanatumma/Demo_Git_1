@@ -18,3 +18,10 @@ w=functionname3(3,1)
 x=functionname3(8,5)
 print(w)
 print(x)
+
+def functionname4(a,b):
+    return a*b 
+w=functionname4(3,1)
+x=functionname4(8,5)
+print(w)
+print(x)
