@@ -23,5 +23,8 @@ def functionname4(a,b):
     return a*b 
 w=functionname4(3,1)
 x=functionname4(8,5)
+y=functionname4(4,2)
+
 print(w)
 print(x)
+print(y)
